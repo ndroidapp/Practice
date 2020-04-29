@@ -1,1 +1,2 @@
 This is sample text
+Now this is being edited master branch
