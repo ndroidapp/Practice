@@ -1,2 +1,6 @@
 This is sample text
+<<<<<<< HEAD
 Now this is being edited master branch
+=======
+thi is being edited in experimental branch
+>>>>>>> experimental
